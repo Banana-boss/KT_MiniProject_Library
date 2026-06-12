@@ -1,0 +1,6 @@
+1. walking-library 폴더 들어가서 cmd로 들어가서 npm install후 npm run dev 로 프론트 실행
+
+2. Intellij 로 폴더 열고 bookapp폴더 안에 있는  BookappApplication.java 을 실행.
+
+
+데이터 값은 하드코딩된 더미 값으로 되어있다.
